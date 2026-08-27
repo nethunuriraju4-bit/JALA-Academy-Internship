@@ -51,4 +51,17 @@ Character: A
 Float: 85.5
 Double: 25000.5
 
+## Question 5
+
+Define the local and Global variables with the same name and print both variables and understand the scope of the variables.
+
+### Solution
+
+The program is available in Scope.java.
+
+### Output
+
+Local variable: 50
+Global variable: 100
+
 
