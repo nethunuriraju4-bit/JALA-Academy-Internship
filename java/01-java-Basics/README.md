@@ -64,4 +64,16 @@ The program is available in Scope.java.
 Local variable: 50
 Global variable: 100
 
+## Question 6
+
+Write a function to print your name and call the function from main method.
+
+### Solution
+
+The program is available in PrintNameFunction.java.
+
+### Output
+
+raju yadav
+
 
