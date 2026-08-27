@@ -35,6 +35,20 @@ The program is available in Comments.java.
 ### Output
 
 Comments in Java
+ # Question 4
 
+Define variables for different Data Types int, Boolean, char, float, double and print on the Console.
+
+### Solution
+
+The program is available in DataTypes.java.
+
+### Output
+
+Integer: 20
+Boolean: true
+Character: A
+Float: 85.5
+Double: 25000.5
 
 
