@@ -67,3 +67,18 @@ The program is available in LogicalOperators.java.
 Logical AND: true
 Logical OR: true
 Logical NOT: true
+
+## Question 6
+
+Write a program to find relational operators (<, <=, >, >=).
+
+### Solution
+
+The program is available in RelationalOperators.java.
+
+### Output
+
+Less than: true
+Less than or equal to: true
+Greater than: false
+Greater than or equal to: false
