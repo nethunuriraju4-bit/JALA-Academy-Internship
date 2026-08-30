@@ -41,3 +41,15 @@ The program is available in EqualNotEqual.java.
 
 Equal: false
 Not Equal: true
+
+## Question 4
+
+Write a program to find the two numbers equal or not.
+
+### Solution
+
+The program is available in CheckEqual.java.
+
+### Output
+
+Both numbers are equal
