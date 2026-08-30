@@ -81,4 +81,16 @@ The program is available in RelationalOperators.java.
 Less than: true
 Less than or equal to: true
 Greater than: false
-Greater than or equal to: false
+Greater than or equal to: 
+## Question 7
+
+Print the smaller and larger number.
+
+### Solution
+
+The program is available in SmallerLarger.java.
+
+### Output
+
+Smaller number: 10
+Larger number: 20
