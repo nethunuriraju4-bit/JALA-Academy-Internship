@@ -28,3 +28,16 @@ The program is available in IncrementDecrement.java.
 
 Increment: 11
 Decrement: 10
+
+## Question 3
+
+Program to equal operator and not equal operators.
+
+### Solution
+
+The program is available in EqualNotEqual.java.
+
+### Output
+
+Equal: false
+Not Equal: true
