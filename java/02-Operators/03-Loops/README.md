@@ -48,5 +48,16 @@ The program is available in Print1To20.java.
 16
 17
 18
-19
-20
+
+## Question 3
+
+Program to equal operator and not equal operators.
+
+### Solution
+
+The program is available in EqualNotEqual.java.
+
+### Output
+
+Equal: false
+Not Equal: true
