@@ -66,3 +66,14 @@ The program is available in `CopyArray.java`.
 ### Output
 
 Copied array: 10 20 30 40 50
+## Question 7
+
+Write a function to insert an element at a specific position in the array.
+
+### Solution
+
+The program is available in `InsertElement.java`.
+
+### Output
+
+Array after insertion: 10 20 25 30 40 50
