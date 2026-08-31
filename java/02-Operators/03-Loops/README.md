@@ -95,3 +95,15 @@ Odd numbers:
 15
 17
 19
+
+## Question 5
+
+Write a program to print largest number among three numbers.
+
+### Solution
+
+The program is available in LargestOfThree.java.
+
+### Output
+
+Largest number: 25
