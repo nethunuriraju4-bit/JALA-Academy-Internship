@@ -162,3 +162,15 @@ The program is available in PrimeNumber.java.
 ### Output
 
 17 is a prime number
+
+## Question 10
+
+Write a program to palindrome or not.
+
+### Solution
+
+The program is available in Palindrome.java.
+
+### Output
+
+Palindrome
