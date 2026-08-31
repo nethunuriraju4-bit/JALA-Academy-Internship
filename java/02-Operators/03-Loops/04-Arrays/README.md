@@ -89,3 +89,14 @@ The program is available in `MinMax.java`.
 
 Minimum: 5
 Maximum: 50
+## Question 9
+
+Write a function to reverse an array of integer values.
+
+### Solution
+
+The program is available in `ReverseArray.java`.
+
+### Output
+
+Reversed array: 50 40 30 20 10
