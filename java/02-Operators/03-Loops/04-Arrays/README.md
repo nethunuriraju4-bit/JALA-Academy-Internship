@@ -22,3 +22,14 @@ The program is available in AverageArray.java.
 ### Output
 
 Average of array values: 30.0
+## Question 3
+
+Write a program to find the index of an array element.
+
+### Solution
+
+The program is available in FindIndex.java.
+
+### Output
+
+Index of 30: 2
