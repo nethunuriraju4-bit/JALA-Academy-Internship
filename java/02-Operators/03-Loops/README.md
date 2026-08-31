@@ -174,3 +174,14 @@ The program is available in Palindrome.java.
 ### Output
 
 Palindrome
+## Question 11
+
+Program to check whether a number is EVEN or ODD using switch.
+
+### Solution
+
+The program is available in EvenOddSwitch.java.
+
+### Output
+
+Even Number
