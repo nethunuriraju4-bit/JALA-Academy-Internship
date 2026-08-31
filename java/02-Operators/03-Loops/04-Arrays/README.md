@@ -55,3 +55,14 @@ The program is available in `RemoveElement.java`.
 ### Output
 
 Array after removing 30: 10 20 40 50
+## Question 6
+
+Write a function to copy an array to another array.
+
+### Solution
+
+The program is available in `CopyArray.java`.
+
+### Output
+
+Copied array: 10 20 30 40 50
