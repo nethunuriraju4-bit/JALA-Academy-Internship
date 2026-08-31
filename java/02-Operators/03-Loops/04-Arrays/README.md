@@ -44,3 +44,14 @@ The program is available in ContainsValue.java.
 ### Output
 
 Array contains 30
+## Question 5
+
+Write a function to remove a specific element from an array.
+
+### Solution
+
+The program is available in `RemoveElement.java`.
+
+### Output
+
+Array after removing 30: 10 20 40 50
