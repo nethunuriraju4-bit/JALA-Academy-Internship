@@ -77,3 +77,15 @@ The program is available in `InsertElement.java`.
 ### Output
 
 Array after insertion: 10 20 25 30 40 50
+## Question 8
+
+Write a function to find the minimum and maximum value of an array.
+
+### Solution
+
+The program is available in `MinMax.java`.
+
+### Output
+
+Minimum: 5
+Maximum: 50
