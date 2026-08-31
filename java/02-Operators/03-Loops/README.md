@@ -139,3 +139,15 @@ The program is available in Print1to10.java.
 8
 9
 10
+
+## Question 8
+
+Write a program to find Armstrong number or not.
+
+### Solution
+
+The program is available in ArmstrongNumber.java.
+
+### Output
+
+153 is an Armstrong number
