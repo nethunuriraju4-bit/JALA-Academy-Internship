@@ -125,7 +125,7 @@ Write a program to print 1 to 10 using the do-while loop statement.
 
 ### Solution
 
-The program is available in Print1To10.java.
+The program is available in Print1to10.java.
 
 ### Output
 
