@@ -119,3 +119,23 @@ Largest number: 25
 96
 98
 100
+## Question 7
+
+Write a program to print 1 to 10 using the do-while loop statement.
+
+### Solution
+
+The program is available in Print1To10.java.
+
+### Output
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
