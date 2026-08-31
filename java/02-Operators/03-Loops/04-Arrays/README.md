@@ -33,3 +33,14 @@ The program is available in FindIndex.java.
 ### Output
 
 Index of 30: 2
+## Question 4
+
+Write a function to test if an array contains a specific value.
+
+### Solution
+
+The program is available in ContainsValue.java.
+
+### Output
+
+Array contains 30
