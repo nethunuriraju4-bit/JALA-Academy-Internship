@@ -185,3 +185,14 @@ The program is available in EvenOddSwitch.java.
 ### Output
 
 Even Number
+## Question 12
+
+Print gender (Male/Female) program according to given M/F using switch.
+
+### Solution
+
+The program is available in GenderSwitch.java.
+
+### Output
+
+Male
