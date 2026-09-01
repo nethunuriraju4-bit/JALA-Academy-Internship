@@ -111,3 +111,14 @@ The program is available in `DuplicateValues.java`.
 ### Output
 
 Duplicate values: 10 20
+## Question 11
+
+Write a program to find the common values between two arrays.
+
+### Solution
+
+The program is available in `CommonValues.java`.
+
+### Output
+
+Common values: 20 40
