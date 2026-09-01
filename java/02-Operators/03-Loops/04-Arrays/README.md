@@ -100,3 +100,14 @@ The program is available in `ReverseArray.java`.
 ### Output
 
 Reversed array: 50 40 30 20 10
+## Question 10
+
+Write a function to find the duplicate values of an array.
+
+### Solution
+
+The program is available in `DuplicateValues.java`.
+
+### Output
+
+Duplicate values: 10 20
