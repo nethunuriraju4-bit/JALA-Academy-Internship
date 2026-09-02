@@ -37,3 +37,15 @@ The program is available in StringLength.java.
 ### Output
 
 Length of the string: 11
+
+## Question 4
+
+Extract a string using Substring
+
+### Solution
+
+The program is available in ExtractSubstring.java.
+
+### Output
+
+Extracted String: Hello
