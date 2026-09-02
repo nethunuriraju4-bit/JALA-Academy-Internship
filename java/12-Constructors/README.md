@@ -16,3 +16,19 @@ Name: Raju
 Two-argument constructor called
 Name: Raju
 Age: 20
+## Question 2
+
+Call the constructors (both default and argument constructors) of super class from a child class.
+
+### Solution
+
+The program is available in SuperConstructor.java.
+
+### Output
+
+Parent default constructor called
+Child default constructor called
+
+Parent argument constructor called
+Name: Raju
+Child argument constructor called
