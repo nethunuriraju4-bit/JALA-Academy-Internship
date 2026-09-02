@@ -42,3 +42,15 @@ The program is available in StaticVariablesInInstance.java.
 
 Static Variable 1: 10
 Static Variable 2: 20
+## Question 4
+
+Call instance methods in static methods.
+
+### Solution
+
+The program is available in InstanceMethodsInStatic.java.
+
+### Output
+
+Instance Method 1
+Instance Method 2
