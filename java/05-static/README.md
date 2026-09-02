@@ -18,3 +18,15 @@ Static Method 1
 Static Method 2
 Instance Method 1
 Instance Method 2
+## Question 2
+
+Print instance variables in static methods.
+
+### Solution
+
+The program is available in InstanceVariablesInStatic.java.
+
+### Output
+
+Instance Variable 1: 10
+Instance Variable 2: 20
