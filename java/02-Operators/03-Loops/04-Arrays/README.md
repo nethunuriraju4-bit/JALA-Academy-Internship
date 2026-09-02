@@ -170,3 +170,14 @@ The program is available in `EvenOddCount.java`.
 
 Number of even numbers: 3
 Number of odd numbers: 3
+## Question 16
+
+Write a function to get the difference of largest and smallest value.
+
+### Solution
+
+The program is available in DifferenceLargestSmallest.java.
+
+### Output
+
+Difference between largest and smallest: 45
