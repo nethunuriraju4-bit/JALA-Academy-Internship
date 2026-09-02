@@ -30,3 +30,15 @@ The program is available in InstanceVariablesInStatic.java.
 
 Instance Variable 1: 10
 Instance Variable 2: 20
+## Question 3
+
+Print static variables in instance methods.
+
+### Solution
+
+The program is available in StaticVariablesInInstance.java.
+
+### Output
+
+Static Variable 1: 10
+Static Variable 2: 20
