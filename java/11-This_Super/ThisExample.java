@@ -1,13 +1,27 @@
-interface College {
+class Student {
 
-    // Static final variable
-    int COLLEGE_CODE = 101;
+    // Instance fields
+    int age = 20;
+    String name = "Raju";
+
+    void display() {
+
+        // Using this
+        System.out.println("Using this - Age: " + this.age);
+        System.out.println("Using this - Name: " + this.name);
+
+        // Without using this/object
+        System.out.println("Without this - Age: " + age);
+        System.out.println("Without this - Name: " + name);
+    }
 }
 
-class Student implements College {
+public class ThisExample {
 
     public static void main(String[] args) {
 
-        System.out.println("College Code: " + College.COLLEGE_CODE);
+        Student student = new Student();
+
+        student.display();
     }
 }
