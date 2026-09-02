@@ -54,3 +54,15 @@ The program is available in InstanceMethodsInStatic.java.
 
 Instance Method 1
 Instance Method 2
+## Question 5
+
+Call static methods in instance methods.
+
+### Solution
+
+The program is available in StaticMethodsInInstance.java.
+
+### Output
+
+Static Method 1
+Static Method 2
