@@ -181,3 +181,15 @@ The program is available in DifferenceLargestSmallest.java.
 ### Output
 
 Difference between largest and smallest: 45
+
+## Question 17
+
+Write a method to verify if the array contains two specified elements (12, 23).
+
+### Solution
+
+The program is available in CheckTwoElements.java.
+
+### Output
+
+Array contains both 12 and 23
