@@ -66,3 +66,17 @@ The program is available in StaticMethodsInInstance.java.
 
 Static Method 1
 Static Method 2
+## Question 6
+
+Print all the static, instance variables in the main method.
+
+### Solution
+
+The program is available in PrintAllVariables.java.
+
+### Output
+
+Static Variable 1: 10
+Static Variable 2: 20
+Instance Variable 1: 30
+Instance Variable 2: 40
