@@ -106,7 +106,7 @@ Write a function to find the duplicate values of an array.
 
 ### Solution
 
-The program is available in `DuplicateValues.java`.
+The program is available in `DuplicateValues.java`
 
 ### Output
 
