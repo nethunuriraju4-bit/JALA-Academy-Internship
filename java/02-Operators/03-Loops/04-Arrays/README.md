@@ -134,3 +134,14 @@ The program is available in `RemoveDuplicates.java`.
 ### Output
 
 Array after removing duplicates: 10 20 30 40
+## Question 13
+
+Write a method to find the second largest number in an array.
+
+### Solution
+
+The program is available in `SecondLargest.java`.
+
+### Output
+
+Second largest number: 40
