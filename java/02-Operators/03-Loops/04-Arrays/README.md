@@ -145,3 +145,15 @@ The program is available in `SecondLargest.java`.
 ### Output
 
 Second largest number: 40
+
+## Question 14
+
+Write a method to find the second largest number in an array.
+
+### Solution
+
+The program is available in `SecondLargestNumber.java`.
+
+### Output
+
+Second largest number: 40
