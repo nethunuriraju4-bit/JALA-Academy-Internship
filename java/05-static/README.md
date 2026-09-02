@@ -80,3 +80,17 @@ Static Variable 1: 10
 Static Variable 2: 20
 Instance Variable 1: 30
 Instance Variable 2: 40
+## Question 7
+
+Call static methods and instance methods in the main method.
+
+### Solution
+
+The program is available in CallMethodsInMain.java.
+
+### Output
+
+Static Method 1
+Static Method 2
+Instance Method 1
+Instance Method 2
