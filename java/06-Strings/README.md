@@ -71,3 +71,14 @@ The program is available in CompareStrings.java.
 ### Output
 
 Both strings are equal
+## Question 7
+
+Comparing strings using compareTo() method.
+
+### Solution
+
+The program is available in CompareToStrings.java.
+
+### Output
+
+Comparison result: -15
