@@ -193,3 +193,14 @@ The program is available in CheckTwoElements.java.
 ### Output
 
 Array contains both 12 and 23
+## Question 18
+
+Write a program to remove the duplicate elements and return the new array.
+
+### Solution
+
+The program is available in RemoveDuplicatesNewArray.java.
+
+### Output
+
+New array after removing duplicates: 10 20 30 40
