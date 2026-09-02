@@ -122,3 +122,15 @@ The program is available in `CommonValues.java`.
 ### Output
 
 Common values: 20 40
+
+## Question 12
+
+Write a method to remove duplicate elements from an array.
+
+### Solution
+
+The program is available in `RemoveDuplicates.java`.
+
+### Output
+
+Array after removing duplicates: 10 20 30 40
