@@ -36,3 +36,28 @@ Display method of B
 Method C1
 Method C2
 Display method of C
+## Question 3
+
+Create a class with main method. Create an object for each class A, B and C in main method and call every method of each class using its own object/instance.
+
+### Solution
+
+The program is available in CallAllMethods.java.
+
+### Output
+
+Method A1
+Method A2
+Display method of A
+Method A1
+Method A2
+Method B1
+Method B2
+Display method of B
+Method A1
+Method A2
+Method B1
+Method B2
+Method C1
+Method C2
+Display method of C
