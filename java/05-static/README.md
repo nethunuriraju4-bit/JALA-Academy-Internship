@@ -1,0 +1,20 @@
+# 5. Static
+
+## Question 1
+
+Write a class with 2 static variables, 2 instance variables, 2 static methods, 2 instance methods and a main method.
+
+### Solution
+
+The program is available in StaticExample.java.
+
+### Output
+
+Static Variable 1: 10
+Static Variable 2: 20
+Instance Variable 1: 30
+Instance Variable 2: 40
+Static Method 1
+Static Method 2
+Instance Method 1
+Instance Method 2
