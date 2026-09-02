@@ -49,3 +49,14 @@ The program is available in ExtractSubstring.java.
 ### Output
 
 Extracted String: Hello
+## Question 5
+
+Searching in strings using indexOf()
+
+### Solution
+
+The program is available in SearchString.java.
+
+### Output
+
+Index of World: 6
