@@ -204,3 +204,14 @@ The program is available in RemoveDuplicatesNewArray.java.
 ### Output
 
 New array after removing duplicates: 10 20 30 40
+## Question 19
+
+Write a function to find the missing number of sorted array of 1 to 100.
+
+### Solution
+
+The program is available in MissingNumber.java.
+
+### Output
+
+Missing number: 50
