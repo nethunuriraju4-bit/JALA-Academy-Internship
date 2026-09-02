@@ -60,3 +60,14 @@ The program is available in SearchString.java.
 ### Output
 
 Index of World: 6
+## Question 6
+
+Comparing strings using equals() method.
+
+### Solution
+
+The program is available in CompareStrings.java.
+
+### Output
+
+Both strings are equal
