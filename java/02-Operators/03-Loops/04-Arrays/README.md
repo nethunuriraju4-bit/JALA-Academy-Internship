@@ -157,3 +157,16 @@ The program is available in `SecondLargestNumber.java`.
 ### Output
 
 Second largest number: 40
+
+## Question 15
+
+Write a method to find number of even numbers and odd numbers in an array.
+
+### Solution
+
+The program is available in `EvenOddCount.java`.
+
+### Output
+
+Number of even numbers: 3
+Number of odd numbers: 3
