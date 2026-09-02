@@ -25,3 +25,15 @@ The program is available in ConcatenateStrings.java.
 ### Output
 
 Concatenated String: Hello World
+
+## Question 3
+
+Finding the length of the string
+
+### Solution
+
+The program is available in StringLength.java.
+
+### Output
+
+Length of the string: 11
